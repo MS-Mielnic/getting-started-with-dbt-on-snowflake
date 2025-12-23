@@ -1,4 +1,4 @@
-# playing with dbt on Snowflake
+# Playing with dbt on Snowflake
 
 ## Overview
 
