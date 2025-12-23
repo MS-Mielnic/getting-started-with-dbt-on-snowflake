@@ -13,6 +13,6 @@ It uses a snowflake free account which has a restriction to acces dbt utils and 
 - one manual test
 
 ### what I will add:
-a streamlit site with an interactive viz for my new data
-logs visualization
-a prediciton model 
+- a streamlit site with an interactive viz for my new data
+- logs visualization
+- a prediciton model 
