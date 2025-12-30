@@ -16,3 +16,4 @@ It uses a snowflake free account which has a restriction to acces dbt utils and 
 - a streamlit site with an interactive viz for my new data
 - logs visualization
 - a prediciton model 
+- a git integration with PAT
